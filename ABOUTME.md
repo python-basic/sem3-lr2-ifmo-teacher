@@ -14,3 +14,6 @@
 - Writing code and technical specifications
 
 Here is my [github portfolio](https://nzhukov.github.io)
+
+### Мотивирующая картинка
+![Кот, который смотрит в камеру](photo-1567943556786-6acea6e7f562.jpeg "This is very very motivational picture for me")
